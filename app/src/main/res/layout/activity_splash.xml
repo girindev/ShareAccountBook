@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".SplashActivity">
+
+    <TextView
+        android:id="@+id/tv_login_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="230dp"
+        android:fontFamily="@font/yg_jalnan"
+        android:text="부부♥\n가계부"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp" />
+
+</RelativeLayout>
